@@ -1,5 +1,4 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/C4D16AQG-yr8Ic0e13Q/profile-displaybackgroundimage-shrink_350_1400/0/1662489323455?e=1682553600&v=beta&t=ps5pi0vR4u8XHuM2nu5jE5eHsaVzrw992TyRVLp3EBw)]()
 
 <h1 align="center">Hi 👋, I'm Ayush Goyal</h1>
 <h3 align="center">A passionate developer & Designer who loves to build & Design <br> scalable Web Applications using modern technologies.</h3>
@@ -37,8 +36,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayuugoyal&icon=2&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayuugoyal) 
-
-  
