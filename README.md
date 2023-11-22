@@ -32,7 +32,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317nz7mdapswrorzufgd46sndzxq)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ayuugoyal&icon=2&color=1)](https://visitcount.itsvg.in)
