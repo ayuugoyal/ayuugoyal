@@ -4,7 +4,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" alt="Your Image" style="width: 40px; height: 40px;">
  I'm Ayush Goyal
 </h1>
-<h3 align="center">A passionate developer & Designer who loves to build & Design <br> scalable Web Applications using modern technologies.</h3>
 
 
 <h1 align="center"> <img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" style="width: 90px; height: 100px;">
